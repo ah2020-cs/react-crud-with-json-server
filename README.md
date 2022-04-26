@@ -12,4 +12,7 @@ The JSON server can be started with `json-server --watch ./src/assets/mock-data/
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+![1](1.png)
+![2](2.png)
+
 
